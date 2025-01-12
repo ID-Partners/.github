@@ -47,7 +47,7 @@ We welcome bug reports, feature requests, and general feedback. Please review ou
 Contact Us
 
 For inquiries about partnerships, custom solutions, or general questions, reach out to us at:
-	•	Website: ID Partners 
+	•	Website: https://www.idpartners.com.au
 	•	Email: info@idpartners.com 
 
 
